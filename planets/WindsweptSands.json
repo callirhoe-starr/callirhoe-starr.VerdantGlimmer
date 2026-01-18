@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Windswept Sands",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 80,
+        "surfaceSize": 80,
+        "surfaceGravity": 12
+    },
+    "Orbit": {
+        "primaryBody": "Verdant Glimmer",
+        "isMoon": false,
+        "isTidallyLocked": false,
+        "semiMajorAxis": 7500,
+        "isStatic": false,
+        "siderealPeriod": 4.5
+    },
+    "MapMarker": {
+        "enabled": true
+    },
+    "Sand": {
+        "size": 81,
+        "tint": {"r": 235,"g": 235,"b": 222,"a": 255}
+    }
+}
