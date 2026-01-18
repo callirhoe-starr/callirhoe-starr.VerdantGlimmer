@@ -9,11 +9,12 @@
         "surfaceGravity": 12
     },
     "Orbit": {
-        "primaryBody": "VerdantGlimmer",
+        "primaryBody": "Verdant Glimmer",
         "isMoon": false,
         "isTidallyLocked": false,
         "semiMajorAxis": 5500,
-        "isStatic": false
+        "isStatic": false,
+        "siderealPeriod": 2
     },
     "Spawn": {
         "playerSpawnPoints": [

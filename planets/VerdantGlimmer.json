@@ -5,7 +5,8 @@
     "canShowOnTitle": false,
     "Base": {
         "centerOfSolarSystem": true,
-        "gravityFallOff": "inverseSquared"
+        "gravityFallOff": "inverseSquared",
+        "surfaceGravity": 900
     },
     "Star": {
         "curve": [
