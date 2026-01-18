@@ -18,5 +18,9 @@
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Water": {
+        "size": 81,
+        "tint": {"r": 68,"g": 82,"b": 89,"a": 255}
     }
 }
