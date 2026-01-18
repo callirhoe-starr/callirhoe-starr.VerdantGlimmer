@@ -13,8 +13,7 @@
         "isMoon": false,
         "isTidallyLocked": false,
         "semiMajorAxis": 5500,
-        "isStatic": false,
-        ""
+        "isStatic": false
     },
     "Spawn": {
         "playerSpawnPoints": [
