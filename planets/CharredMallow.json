@@ -28,5 +28,8 @@
                 "position": {"x":100,"y":100,"z":0}
             }
         ]
+    },
+    "MapMarker": {
+        "enabled": true
     }
 }
