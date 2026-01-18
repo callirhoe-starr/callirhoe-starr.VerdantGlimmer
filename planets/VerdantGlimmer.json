@@ -1,0 +1,37 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Verdant Glimmer",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "centerOfSolarSystem": true,
+        "gravityFallOff": "inverseSquared"
+    },
+    "Star": {
+        "curve": [
+            {
+                "time": 0,
+                "value": 1
+            },
+            {
+                "time": 22,
+                "value": 2
+            }
+        ],
+        "lifespan": 22,
+        "hasAtmosphere": true,
+        "lightTint": {"r": 128,"g": 235,"b": 169,"a": 255},
+        "size": 1850,
+        "solarLuminosity": 0.9,
+        "tint": {"r": 128,"g": 235,"b": 169,"a": 255},
+        "endTint": {"r": 46,"g": 171,"b": 167,"a": 255},
+        "stellarDeathType": "supernova",
+        "stellarRemnantType": "blackHole",
+        "solarFlareSettings": {
+            "scaleFactor": 2,
+            "lifeLength": 20,
+            "minTimeBetweenFlares": 2,
+            "maxTimeBetweenFlares": 25
+        }
+    }
+}

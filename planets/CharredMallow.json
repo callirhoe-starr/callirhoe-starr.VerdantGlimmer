@@ -1,0 +1,32 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Charred Mallow",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 80,
+        "surfaceSize": 80,
+        "surfaceGravity": 12
+    },
+    "Orbit": {
+        "primaryBody": "Verdant Glimmer",
+        "isMoon": false,
+        "isTidallyLocked": false,
+        "semiMajorAxis": 5500
+    },
+    "Spawn": {
+        "playerSpawnPoints": [
+            {
+                "isDefault": true,
+                "startWithSuit": true,
+                "position": {"x":100,"y":0,"z":0}
+            }
+        ],
+        "shipSpawnPoints": [
+            {
+                "isDefault": true,
+                "position": {"x":100,"y":100,"z":0}
+            }
+        ]
+    }
+}
