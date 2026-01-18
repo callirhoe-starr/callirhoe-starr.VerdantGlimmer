@@ -9,7 +9,7 @@
         "surfaceGravity": 12
     },
     "Orbit": {
-        "primaryBody": "Verdant Glimmer",
+        "primaryBody": "VerdantGlimmer",
         "isMoon": false,
         "isTidallyLocked": false,
         "semiMajorAxis": 5500,
