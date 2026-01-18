@@ -12,7 +12,9 @@
         "primaryBody": "Verdant Glimmer",
         "isMoon": false,
         "isTidallyLocked": false,
-        "semiMajorAxis": 5500
+        "semiMajorAxis": 5500,
+        "isStatic": false,
+        ""
     },
     "Spawn": {
         "playerSpawnPoints": [
