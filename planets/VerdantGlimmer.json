@@ -37,5 +37,9 @@
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Orbit": {
+        "showOrbitLine": false,
+        "isStatic": true
     }
 }
