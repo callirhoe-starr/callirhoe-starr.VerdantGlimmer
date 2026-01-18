@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
-    "name": "Windswept Sands",
+    "name": "Frostbitten Seaside",
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
@@ -12,15 +12,15 @@
         "primaryBody": "Verdant Glimmer",
         "isMoon": false,
         "isTidallyLocked": false,
-        "semiMajorAxis": 7500,
+        "semiMajorAxis": 12000,
         "isStatic": false,
-        "siderealPeriod": 4.5
+        "siderealPeriod": 3
     },
     "MapMarker": {
         "enabled": true
     },
-    "Sand": {
+    "Water": {
         "size": 80,
-        "tint": {"r": 235,"g": 235,"b": 222,"a": 255}
+        "tint": {"r": 301,"g": 419,"b": 445,"a": 255}
     }
 }

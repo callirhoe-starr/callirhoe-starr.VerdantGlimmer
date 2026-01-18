@@ -4,7 +4,7 @@
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
-        "groundSize": 80,
+        "groundSize": 0,
         "surfaceSize": 80,
         "surfaceGravity": 12
     },
@@ -20,7 +20,7 @@
         "enabled": true
     },
     "Water": {
-        "size": 81,
+        "size": 80,
         "tint": {"r": 68,"g": 82,"b": 89,"a": 255}
     }
 }
