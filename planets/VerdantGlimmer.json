@@ -7,7 +7,7 @@
         "centerOfSolarSystem": true,
         "gravityFallOff": "inverseSquared",
         "surfaceSize" : 1000,
-        "surfaceGravity": 900
+        "surfaceGravity": 90
     },
     "Star": {
         "curve": [
@@ -17,16 +17,16 @@
             },
             {
                 "time": 22,
-                "value": 2
+                "value": 2.5
             }
         ],
         "lifespan": 22,
-        "hasAtmosphere": true,
+        "hasAtmosphere": false,
         "lightTint": {"r": 128,"g": 235,"b": 169,"a": 255},
         "size": 1850,
         "solarLuminosity": 0.9,
         "tint": {"r": 128,"g": 235,"b": 169,"a": 255},
-        "endTint": {"r": 46,"g": 171,"b": 167,"a": 255},
+        "endTint": {"r": 60,"g": 77,"b": 60,"a": 255},
         "stellarDeathType": "supernova",
         "stellarRemnantType": "blackHole",
         "solarFlareSettings": {
