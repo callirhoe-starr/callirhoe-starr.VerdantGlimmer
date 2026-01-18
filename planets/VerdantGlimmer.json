@@ -33,7 +33,7 @@
             "minTimeBetweenFlares": 2,
             "maxTimeBetweenFlares": 25
         }
-    }
+    },
     "MapMarker": {
         "enabled": true
     }
