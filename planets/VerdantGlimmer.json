@@ -34,4 +34,7 @@
             "maxTimeBetweenFlares": 25
         }
     }
+    "MapMarker": {
+        "enabled": true
+    }
 }
