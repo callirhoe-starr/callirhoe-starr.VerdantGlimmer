@@ -40,8 +40,12 @@
                 "value": 3.1
             },
             {
-                "time": 22,
+                "time": 21.95,
                 "value": 2.5
+            },
+            {
+                "time": 22,
+                "value": 0.5
             }
         ],
         "lifespan": 22,
