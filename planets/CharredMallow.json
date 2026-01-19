@@ -18,10 +18,5 @@
     },
     "MapMarker": {
         "enabled": true
-    },
-    "Atmosphere": {
-        "hasOxygen": true,
-        "size": 100,
-        "useAtmosphereShader": true
     }
 }

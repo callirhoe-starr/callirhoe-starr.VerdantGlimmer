@@ -28,13 +28,13 @@
             {
                 "isDefault": true,
                 "startWithSuit": true,
-                "position": {"x":85,"y":0,"z":0}
+                "position": {"x":80,"y":0,"z":0}
             }
         ],
         "shipSpawnPoints": [
             {
                 "isDefault": true,
-                "position": {"x":85,"y":20,"z":0}
+                "position": {"x":80,"y":20,"z":0}
             }
         ]
     },
@@ -42,9 +42,14 @@
         "details": [
             {
                 "path": "Sector_BH/Sector_Crossroads/Interactables_Crossroads/VisibleFrom_BH/Prefab_HEA_Campfire",
-                "position": {"x":0,"y":82,"z":0},
+                "position": {"x":0,"y":80,"z":0},
                 "scale": 1
             }
         ]
+    },
+    "Atmosphere": {
+        "hasOxygen": true,
+        "size": 100,
+        "useAtmosphereShader": true
     }
 }
