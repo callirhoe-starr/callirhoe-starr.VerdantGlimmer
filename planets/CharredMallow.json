@@ -27,11 +27,20 @@
         "shipSpawnPoints": [
             {
                 "isDefault": true,
-                "position": {"x":0,"y":85,"z":0}
+                "position": {"x":85,"y":20,"z":0}
             }
         ]
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Props": {
+        "details": [
+            {
+                "path": "Sector_BH/Sector_Crossroads/Interactables_Crossroads/VisibleFrom_BH/Prefab_HEA_Campfire",
+                "position": {"x":85,"y":0,"z":0},
+                "scale": 1
+            }
+        ]
     }
 }
