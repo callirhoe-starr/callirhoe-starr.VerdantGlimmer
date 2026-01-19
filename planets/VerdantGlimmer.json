@@ -16,6 +16,30 @@
                 "value": 1
             },
             {
+                "time": 5,
+                "value": 1
+            },
+            {
+                "time": 20,
+                "value": 2.5
+            },
+            {
+                "time": 20.4,
+                "value": 1.2
+            },
+            {
+                "time": 20.9,
+                "value": 2.7
+            },
+            {
+                "time": 21.4,
+                "value": 1.5
+            },
+            {
+                "time": 21.6,
+                "value": 3.1
+            },
+            {
                 "time": 22,
                 "value": 2.5
             }
@@ -23,10 +47,10 @@
         "lifespan": 22,
         "hasAtmosphere": false,
         "lightTint": {"r": 128,"g": 235,"b": 169,"a": 255},
-        "size": 1850,
-        "solarLuminosity": 0.9,
+        "size": 2100,
+        "solarLuminosity": 1.1,
         "tint": {"r": 128,"g": 235,"b": 169,"a": 255},
-        "endTint": {"r": 60,"g": 77,"b": 60,"a": 255},
+        "endTint": {"r": 225,"g": 239,"b": 242,"a": 255},
         "stellarDeathType": "supernova",
         "stellarRemnantType": "blackHole",
         "solarFlareSettings": {
