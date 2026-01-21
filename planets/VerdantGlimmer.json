@@ -56,7 +56,7 @@
         "tint": {"r": 128,"g": 235,"b": 169,"a": 255},
         "supernovaTint": {"r": 128,"g": 235,"b": 169,"a": 255},
         "endTint": {"r": 225,"g": 239,"b": 242,"a": 255},
-        "starCollapseRampTexture": "assets/starRamp.png",
+        "starCollapseRampTexture": "assets/supernovaRamp.png",
         "starRampTexture": "assets/colorRamp.png",
         "stellarDeathType": "supernova",
         "stellarRemnantType": "blackHole",
