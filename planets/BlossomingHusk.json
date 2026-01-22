@@ -12,7 +12,7 @@
         "isMoon": true,
         "primaryBody": "Windswept Sands",
         "isTidallyLocked": true,
-        "semiMajorAxis": 700,
+        "semiMajorAxis": 850,
         "isStatic": false
     },
     "MapMarker": {
@@ -22,7 +22,7 @@
         "details": [
             {
                 "path": "Sector_BH/Sector_Crossroads/Interactables_Crossroads/VisibleFrom_BH/Prefab_HEA_Campfire",
-                "position": {"x":0,"y":20,"z":0},
+                "position": {"x":0,"y":70,"z":0},
                 "scale": 1
             }
         ]
@@ -32,13 +32,13 @@
             {
                 "isDefault": true,
                 "startWithSuit": true,
-                "position": {"x":0,"y":-20,"z":0}
+                "position": {"x":0,"y":-70,"z":0}
             }
         ],
         "shipSpawnPoints": [
             {
                 "isDefault": true,
-                "position": {"x":-20,"y":0,"z":0}
+                "position": {"x":-70,"y":0,"z":0}
             }
         ]
     },
