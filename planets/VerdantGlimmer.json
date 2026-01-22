@@ -49,7 +49,7 @@
             }
         ],
         "lifespan": 22,
-        "hasAtmosphere": false,
+        "hasAtmosphere": true,
         "lightTint": {"r": 128,"g": 235,"b": 169,"a": 255},
         "size": 2100,
         "solarLuminosity": 1.1,
