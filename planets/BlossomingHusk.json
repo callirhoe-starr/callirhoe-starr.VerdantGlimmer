@@ -4,15 +4,15 @@
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
-        "groundSize": 20,
-        "surfaceSize": 20,
+        "groundSize": 70,
+        "surfaceSize": 70,
         "surfaceGravity": 6
     },
     "Orbit": {
         "isMoon": true,
         "primaryBody": "Windswept Sands",
         "isTidallyLocked": true,
-        "semiMajorAxis": 500,
+        "semiMajorAxis": 700,
         "isStatic": false
     },
     "MapMarker": {
@@ -32,19 +32,19 @@
             {
                 "isDefault": true,
                 "startWithSuit": true,
-                "position": {"x":20,"y":0,"z":0}
+                "position": {"x":0,"y":-20,"z":0}
             }
         ],
         "shipSpawnPoints": [
             {
                 "isDefault": true,
-                "position": {"x":0,"y":0,"z":20}
+                "position": {"x":-20,"y":0,"z":0}
             }
         ]
     },
     "Atmosphere": {
         "hasOxygen": true,
-        "size": 35,
+        "size": 95,
         "useAtmosphereShader": true
     }
 }

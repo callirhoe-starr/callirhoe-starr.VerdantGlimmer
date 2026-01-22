@@ -4,23 +4,19 @@
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
-        "groundSize": 0,
-        "surfaceSize": 80,
+        "groundSize": 140,
+        "surfaceSize": 140,
         "surfaceGravity": 12
     },
     "Orbit": {
         "primaryBody": "Verdant Glimmer",
         "isMoon": false,
         "isTidallyLocked": false,
-        "semiMajorAxis": 10000,
+        "semiMajorAxis": 13500,
         "isStatic": false,
         "siderealPeriod": 3
     },
     "MapMarker": {
         "enabled": true
-    },
-    "Water": {
-        "size": 80,
-        "tint": {"r": 68,"g": 82,"b": 89,"a": 255}
     }
 }

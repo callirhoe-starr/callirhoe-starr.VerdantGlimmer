@@ -5,14 +5,14 @@
     "canShowOnTitle": false,
     "Base": {
         "groundSize": 0,
-        "surfaceSize": 80,
+        "surfaceSize": 250,
         "surfaceGravity": 12
     },
     "Orbit": {
         "primaryBody": "Verdant Glimmer",
         "isMoon": false,
         "isTidallyLocked": false,
-        "semiMajorAxis": 7500,
+        "semiMajorAxis": 16500,
         "isStatic": false,
         "siderealPeriod": 4.5
     },
@@ -20,12 +20,12 @@
         "enabled": true
     },
     "Sand": {
-        "size": 80,
+        "size": 250,
         "tint": {"r": 235,"g": 235,"b": 222,"a": 255}
     },
     "Atmosphere": {
         "hasOxygen": true,
-        "size": 100,
+        "size": 300,
         "useAtmosphereShader": true
     }
 }

@@ -4,15 +4,15 @@
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
-        "groundSize": 20,
-        "surfaceSize": 80,
+        "groundSize": 50,
+        "surfaceSize": 300,
         "surfaceGravity": 12
     },
     "Orbit": {
         "primaryBody": "Verdant Glimmer",
         "isMoon": false,
         "isTidallyLocked": false,
-        "semiMajorAxis": 12000,
+        "semiMajorAxis": 10000,
         "isStatic": false,
         "siderealPeriod": 3
     },
@@ -20,7 +20,7 @@
         "enabled": true
     },
     "Water": {
-        "size": 80,
+        "size": 300,
         "tint": {"r": 132,"g": 166,"b": 175,"a": 255}
     }
 }

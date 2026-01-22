@@ -25,23 +25,23 @@
             },
             {
                 "time": 20.4,
-                "value": 1.2
-            },
-            {
-                "time": 20.9,
-                "value": 2.7
-            },
-            {
-                "time": 21.4,
                 "value": 1.5
             },
             {
+                "time": 20.9,
+                "value": 3
+            },
+            {
+                "time": 21.4,
+                "value": 1.85
+            },
+            {
                 "time": 21.6,
-                "value": 3.1
+                "value": 3.5
             },
             {
                 "time": 21.95,
-                "value": 2.5
+                "value": 4.5
             },
             {
                 "time": 22,
