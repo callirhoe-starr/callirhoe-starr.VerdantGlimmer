@@ -1,0 +1,50 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "BLossoming Husk",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 20,
+        "surfaceSize": 20,
+        "surfaceGravity": 6
+    },
+    "Orbit": {
+        "isMoon": true,
+        "primaryBody": "Windswept Sands",
+        "isTidallyLocked": true,
+        "semiMajorAxis": 500,
+        "isStatic": false
+    },
+    "MapMarker": {
+        "enabled": true
+    },
+    "Props": {
+        "details": [
+            {
+                "path": "Sector_BH/Sector_Crossroads/Interactables_Crossroads/VisibleFrom_BH/Prefab_HEA_Campfire",
+                "position": {"x":0,"y":20,"z":0},
+                "scale": 1
+            }
+        ]
+    },
+        "Spawn": {
+        "playerSpawnPoints": [
+            {
+                "isDefault": true,
+                "startWithSuit": true,
+                "position": {"x":0,"y":20,"z":5}
+            }
+        ],
+        "shipSpawnPoints": [
+            {
+                "isDefault": true,
+                "position": {"x":0,"y":20,"z":10}
+            }
+        ]
+    },
+    "Atmosphere": {
+        "hasOxygen": true,
+        "size": 35,
+        "useAtmosphereShader": true
+    }
+}

@@ -11,10 +11,9 @@
     "Orbit": {
         "primaryBody": "Verdant Glimmer",
         "isMoon": false,
-        "isTidallyLocked": false,
+        "isTidallyLocked": true,
         "semiMajorAxis": 5500,
-        "isStatic": false,
-        "siderealPeriod": 2
+        "isStatic": false
     },
     "MapMarker": {
         "enabled": true

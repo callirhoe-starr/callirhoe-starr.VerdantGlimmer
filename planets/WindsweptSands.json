@@ -23,30 +23,6 @@
         "size": 80,
         "tint": {"r": 235,"g": 235,"b": 222,"a": 255}
     },
-    "Spawn": {
-        "playerSpawnPoints": [
-            {
-                "isDefault": true,
-                "startWithSuit": true,
-                "position": {"x":80,"y":0,"z":0}
-            }
-        ],
-        "shipSpawnPoints": [
-            {
-                "isDefault": true,
-                "position": {"x":80,"y":20,"z":0}
-            }
-        ]
-    },
-    "Props": {
-        "details": [
-            {
-                "path": "Sector_BH/Sector_Crossroads/Interactables_Crossroads/VisibleFrom_BH/Prefab_HEA_Campfire",
-                "position": {"x":0,"y":80,"z":0},
-                "scale": 1
-            }
-        ]
-    },
     "Atmosphere": {
         "hasOxygen": true,
         "size": 100,
