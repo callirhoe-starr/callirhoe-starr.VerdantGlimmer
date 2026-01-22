@@ -32,13 +32,13 @@
             {
                 "isDefault": true,
                 "startWithSuit": true,
-                "position": {"x":0,"y":20,"z":5}
+                "position": {"x":20,"y":0,"z":0}
             }
         ],
         "shipSpawnPoints": [
             {
                 "isDefault": true,
-                "position": {"x":0,"y":20,"z":10}
+                "position": {"x":0,"y":0,"z":20}
             }
         ]
     },
