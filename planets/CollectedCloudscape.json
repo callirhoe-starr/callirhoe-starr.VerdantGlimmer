@@ -12,6 +12,7 @@
         "isMoon": true,
         "primaryBody": "Wavewrought Aquifer",
         "semiMajorAxis": 1000,
+        "trueAnomaly": 35,
         "isTidallyLocked": true
     },
     "MapMarker": {

@@ -14,6 +14,7 @@
         "isTidallyLocked": false,
         "semiMajorAxis": 20500,
         "isStatic": false,
+        "trueAnomaly": 299,
         "siderealPeriod": 6
     },
     "MapMarker": {

@@ -13,6 +13,7 @@
         "primaryBody": "Wavewrought Aquifer",
         "semiMajorAxis": 1500,
         "isTidallyLocked": false,
+        "trueAnomaly": 132,
         "siderealPeriod": 1.5
     },
     "MapMarker": {

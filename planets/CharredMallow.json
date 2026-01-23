@@ -13,6 +13,7 @@
         "isMoon": false,
         "isTidallyLocked": true,
         "semiMajorAxis": 7000,
+        "trueAnomaly": 175,
         "isStatic": false
     },
     "MapMarker": {

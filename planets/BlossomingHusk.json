@@ -13,6 +13,7 @@
         "primaryBody": "Sweeping Breeze",
         "isTidallyLocked": true,
         "semiMajorAxis": 850,
+        "trueAnomaly": 24,
         "isStatic": false
     },
     "MapMarker": {
