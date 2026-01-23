@@ -19,10 +19,14 @@
     "MapMarker": {
         "enabled": true
     },
+    "Water": {
+        "size": 610,
+        "tint": {"r":36,"g":54,"b":57,"a":255}
+    },
     "Atmosphere": {
         "fogDensity": 0.8,
         "fogSize": 750,
-        "fogTint": {"r":190,"g":196,"b":217,"a":222},
+        "fogTint": {"r":190,"g":196,"b":217,"a":255},
         "hasOxygen": false,
         "hasRain": true,
         "size": 700,
@@ -31,6 +35,7 @@
             "hasLightning": true,
             "innerCloudRadius": 670,
             "outerCloudRadius": 700,
+            "texturePath": "assets/waterclouds.png",
             "tint": {"r":136,"g":145,"b":147,"a":255}
         }
     }

@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Frozen Flare",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 95,
+        "surfaceSize": 95,
+        "surfaceGravity": 5
+    },
+    "Orbit": {
+        "isMoon": true,
+        "primaryBody": "Wavewrought Aquifer",
+        "semiMajorAxis": 1500,
+        "isTidallyLocked": false,
+        "siderealPeriod": 1.5
+    },
+    "MapMarker": {
+        "enabled": true
+    },
+    "Atmosphere": {
+        "fogDensity": 0.8,
+        "fogSize": 140,
+        "fogTint": {"r":117,"g":44,"b":44,"a":255},
+        "hasOxygen": false,
+        "hasRain": true,
+        "size": 120,
+        "clouds": {
+            "cloudsPrefab": "giantsDeep",
+            "hasLightning": true,
+            "innerCloudRadius": 115,
+            "outerCloudRadius": 120,
+            "texturePath": "assets/flareclouds.png",
+            "tint": {"r":117,"g":44,"b":44,"a":255}
+        }
+}

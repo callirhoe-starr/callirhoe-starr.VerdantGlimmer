@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Collected Cloudscape",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 75,
+        "surfaceSize": 75,
+        "surfaceGravity": 3
+    },
+    "Orbit": {
+        "isMoon": true,
+        "primaryBody": "Wavewrought Aquifer",
+        "semiMajorAxis": 1000,
+        "isTidallyLocked": true
+    },
+    "MapMarker": {
+        "enabled": true
+    }
+}
