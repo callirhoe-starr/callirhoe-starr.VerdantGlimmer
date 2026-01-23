@@ -26,6 +26,7 @@
         "hasRain": true,
         "size": 140,
         "useAtmosphereShader": true,
+        "atmosphereTint": {"r":117,"g":44,"b":44,"a":255},
         "clouds": {
             "cloudsPrefab": "giantsDeep",
             "hasLightning": true,
@@ -47,14 +48,14 @@
             }
         ],
         "size": 140,
-        "tint":{"r":134,"g":216,"b":248,"a":255},
-        "endTint": {"r":134,"g":216,"b":248,"a":255},
+        "tint": {"r":248,"g":216,"b":134,"a":255},
+        "endTint": {"r":248,"g":216,"b":134,"a":255},
         "lifespan": 22,
         "stellarDeathType": "none",
         "solarLuminosity": 0.065,
         "hasStarController": false,
         "lightRadius": 5000,
-        "lightTint": {"r":134,"g":216,"b":248,"a":255},
+        "lightTint": {"r":248,"g":216,"b":134,"a":255},
         "hasAtmosphere": false
     }
 }

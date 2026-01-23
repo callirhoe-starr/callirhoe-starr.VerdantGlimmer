@@ -25,11 +25,12 @@
     },
     "Atmosphere": {
         "fogDensity": 0.8,
-        "fogSize": 780,
+        "fogSize": 720,
         "fogTint": {"r":190,"g":196,"b":217,"a":255},
         "hasOxygen": false,
         "hasRain": true,
-        "size": 700,
+        "size": 720,
+        "atmosphereTint": {"r":255,"g":255,"b":255,"a":255},
         "useAtmosphereShader": true,
         "clouds": {
             "cloudsPrefab": "giantsDeep",
