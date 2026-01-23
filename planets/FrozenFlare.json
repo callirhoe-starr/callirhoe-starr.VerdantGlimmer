@@ -20,18 +20,41 @@
     },
     "Atmosphere": {
         "fogDensity": 0.8,
-        "fogSize": 140,
+        "fogSize": 150,
         "fogTint": {"r":117,"g":44,"b":44,"a":255},
         "hasOxygen": false,
         "hasRain": true,
-        "size": 120,
+        "size": 140,
+        "useAtmosphereShader": true,
         "clouds": {
             "cloudsPrefab": "giantsDeep",
             "hasLightning": true,
             "innerCloudRadius": 115,
-            "outerCloudRadius": 120,
+            "outerCloudRadius": 130,
             "texturePath": "assets/flareclouds.png",
             "tint": {"r":117,"g":44,"b":44,"a":255}
         }
+    },
+    "Star": {
+        "curve": [
+            {
+                "time": 0,
+                "value": 1
+            },
+            {
+                "time": 22,
+                "value": 0
+            }
+        ],
+        "size": 140,
+        "tint":{"r":134,"g":216,"b":248,"a":255},
+        "endTint": {"r":134,"g":216,"b":248,"a":255},
+        "lifespan": 22,
+        "stellarDeathType": "none",
+        "solarLuminosity": 0.065,
+        "hasStarController": false,
+        "lightRadius": 5000,
+        "lightTint": {"r":134,"g":216,"b":248,"a":255},
+        "hasAtmosphere": false
     }
 }

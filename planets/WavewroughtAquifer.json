@@ -25,16 +25,17 @@
     },
     "Atmosphere": {
         "fogDensity": 0.8,
-        "fogSize": 750,
+        "fogSize": 780,
         "fogTint": {"r":190,"g":196,"b":217,"a":255},
         "hasOxygen": false,
         "hasRain": true,
         "size": 700,
+        "useAtmosphereShader": true,
         "clouds": {
             "cloudsPrefab": "giantsDeep",
             "hasLightning": true,
             "innerCloudRadius": 670,
-            "outerCloudRadius": 700,
+            "outerCloudRadius": 730,
             "texturePath": "assets/waterclouds.png",
             "tint": {"r":136,"g":145,"b":147,"a":255}
         }
