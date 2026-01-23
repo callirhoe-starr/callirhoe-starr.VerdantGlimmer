@@ -10,7 +10,7 @@
     },
     "Orbit": {
         "isMoon": true,
-        "primaryBody": "Windswept Sands",
+        "primaryBody": "Sweeping Breeze",
         "isTidallyLocked": true,
         "semiMajorAxis": 850,
         "isStatic": false

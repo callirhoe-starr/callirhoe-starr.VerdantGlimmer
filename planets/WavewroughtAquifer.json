@@ -1,0 +1,37 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Wavewrought Aquifer",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 150,
+        "surfaceSize": 610,
+        "surfaceGravity": 16
+    },
+    "Orbit": {
+        "isMoon": false,
+        "primaryBody": "Verdant Glimmer",
+        "isTidallyLocked": false,
+        "semiMajorAxis": 20500,
+        "isStatic": false,
+        "siderealPeriod": 6
+    },
+    "MapMarker": {
+        "enabled": true
+    },
+    "Atmosphere": {
+        "fogDensity": 0.8,
+        "fogSize": 750,
+        "fogTint": {"r":190,"g":196,"b":217,"a":222},
+        "hasOxygen": false,
+        "hasRain": true,
+        "size": 700,
+        "clouds": {
+            "cloudsPrefab": "giantsDeep",
+            "hasLightning": true,
+            "innerCloudRadius": 670,
+            "outerCloudRadius": 700,
+            "tint": {"r":136,"g":145,"b":147,"a":255}
+        }
+    }
+}
