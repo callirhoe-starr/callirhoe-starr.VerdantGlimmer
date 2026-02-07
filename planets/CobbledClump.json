@@ -4,7 +4,7 @@
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
-        "groundSize": 140,
+        "groundSize": 0,
         "surfaceSize": 140,
         "surfaceGravity": 12
     },
@@ -19,5 +19,14 @@
     },
     "MapMarker": {
         "enabled": true
+    },
+    "Props": {
+        "details": [
+            {
+                "path": "assets/geode",
+                "position": {"x":0,"y":0,"z":0},
+                "scale": 2
+            }
+        ]
     }
 }
