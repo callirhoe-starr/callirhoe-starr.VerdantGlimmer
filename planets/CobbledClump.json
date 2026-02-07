@@ -23,9 +23,11 @@
     "Props": {
         "details": [
             {
-                "path": "assets/geode",
+                "path": "Assets/geode.prefab",
+                "assetBundle": "assets/geode",
                 "position": {"x":0,"y":0,"z":0},
-                "scale": 2
+                "scale": 200,
+                "keepLoaded": true
             }
         ]
     }
