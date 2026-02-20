@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Cinder's Reliquary",
+    "starSystem": "Verdant Glimmer",
+    "canShowOnTitle": false,
+    "Base": {
+        "groundSize": 40,
+        "surfaceSize": 40,
+        "surfaceGravity": 5
+    },
+    "Orbit": {
+        "primaryBody": "Cinder Wake",
+        "siderealPeriod": 4,
+        "isTidallyLocked": false,
+        "semiMajorAxis": 500,
+        "trueAnomaly": 92,
+        "isStatic": false,
+        "inclination": 22,
+        "eccentricity": 0.12,
+        "isMoon": true
+    },
+    "MapMarker": {
+        "enabled": true
+    }
+}

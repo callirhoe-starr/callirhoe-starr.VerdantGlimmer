@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
-    "name": "BLossoming Husk",
+    "name": "Testing Moon",
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
@@ -10,9 +10,9 @@
     },
     "Orbit": {
         "isMoon": true,
-        "primaryBody": "Wavewrought Aquifer",
+        "primaryBody": "Testing Giant",
         "isTidallyLocked": true,
-        "semiMajorAxis": 950,
+        "semiMajorAxis": 1150,
         "trueAnomaly": 24,
         "isStatic": false
     },
@@ -33,13 +33,17 @@
             {
                 "isDefault": true,
                 "startWithSuit": true,
-                "position": {"x":75,"y":0,"z":0}
+                "position": {"x": -28.19789, "y": 5.150846, "z": 63.86197},
+                "alignRadial": true,
+                "isRelativeToParent": true
             }
         ],
         "shipSpawnPoints": [
             {
                 "isDefault": true,
-                "position": {"x":-70,"y":0,"z":0}
+                "position": {"x": -28.19789, "y": 5.150846, "z": 63.86197},
+                "alignRadial": true,
+                "isRelativeToParent": true
             }
         ]
     },
