@@ -12,9 +12,9 @@
         "isMoon": false,
         "primaryBody": "Verdant Glimmer",
         "isTidallyLocked": false,
-        "semiMajorAxis": 20500,
+        "semiMajorAxis": 25500,
         "isStatic": false,
-        "trueAnomaly": 299,
+        "trueAnomaly": 199,
         "siderealPeriod": 6
     },
     "MapMarker": {

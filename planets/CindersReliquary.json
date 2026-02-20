@@ -12,7 +12,7 @@
         "primaryBody": "Cinder Wake",
         "siderealPeriod": 4,
         "isTidallyLocked": false,
-        "semiMajorAxis": 500,
+        "semiMajorAxis": 650,
         "trueAnomaly": 92,
         "isStatic": false,
         "inclination": 22,

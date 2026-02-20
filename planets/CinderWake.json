@@ -4,18 +4,48 @@
     "starSystem": "Verdant Glimmer",
     "canShowOnTitle": false,
     "Base": {
-        "groundSize": 100,
-        "surfaceSize": 100,
+        "surfaceSize": 310,
         "surfaceGravity": 12
     },
     "Orbit": {
         "primaryBody": "Verdant Glimmer",
         "isTidallyLocked": true,
         "semiMajorAxis": 15000,
-        "trueAnomaly": 17,
+        "trueAnomaly": 180,
         "isStatic": false,
         "inclination": 17,
         "eccentricity": 0.6
+    },
+    "Sand": {
+        "size": 310,
+        "tint": {"r":167,"g":39,"b":3,"a":255}
+    },
+    "CometTail": {
+        "primaryBody": "Verdant Glimmer",
+        "gasTint": {"r":167,"g":39,"b":3,"a":255},
+        "dustTint": {"r":0,"g":0,"b":0,"a":0},
+        "curve": [
+            {
+                "time": 0,
+                "value": 0
+            },
+            {
+                "time": 7,
+                "value": 0
+            },
+            {
+                "time": 10,
+                "value": 1
+            },
+            {
+                "time": 13,
+                "value": 0
+            },
+            {
+                "time": 20,
+                "value": 0
+            }
+        ]
     },
     "MapMarker": {
         "enabled": true
