@@ -10,9 +10,9 @@
     },
     "Orbit": {
         "isMoon": true,
-        "primaryBody": "Sweeping Breeze",
+        "primaryBody": "Wavewrought Aquifer",
         "isTidallyLocked": true,
-        "semiMajorAxis": 850,
+        "semiMajorAxis": 950,
         "trueAnomaly": 24,
         "isStatic": false
     },
