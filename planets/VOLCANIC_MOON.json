@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "name": "Hollow's Lantern",
+    "Props": {
+        "details": [
+            {
+                "path": "Assets/Callie's Stuff/HollowLanternRuin.prefab",
+                "assetBundle": "assets/NomaiStructures/hollowlanternruin",
+                "alignRadial": true,
+                "position": {"x": -25.53943, "y": 100.74748, "z": -32.24442},
+                "keepLoaded": true
+            }
+        ]
+    }
+}
