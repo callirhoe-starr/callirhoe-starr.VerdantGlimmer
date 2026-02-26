@@ -1,0 +1,41 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<Text>ROOT: We have succeeded! We were able to pair the <![CDATA[<color=orange>warp pads</color>]]> without issue.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<Text>OENO: Excellent thinking, having us put that <![CDATA[<color=orange>receiver</color>]]> together. I'm surprised it was able to receive the <![CDATA[<color=lightblue>Timber Hearth</color>]]> warp pad's signal, given the distance, and the unique rotational pattern of <![CDATA[<color=lightblue>Hollow's Lantern</color>]]>.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<Text>ROOT: It is quite the miracle, but I do suppose it would just as easily pick up the signal of any other <![CDATA[<color=orange>non-paired warp source</color>]]>.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<Text>ROOT: Suppose a warp pad were to have its partner disconnected or destroyed... I wonder what would happen if it were to then be activated!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<Text>OENO: Certainly an interesting question to pose, but not one we should work to answer right now. We have-</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<Text>ROOT: Oeno! The <![CDATA[<color=orange>receiver</color>]]> picked something else up!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<Text>OENO: ...How <![CDATA[<i>bizarre</i>]]>! You're right! I am logging the coordinates immediately... Now that we have the warp pad paired, we can set the receiver to <![CDATA[<color=orange>monitor</color>]]> for similar signals in the future.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>8</ID>
+		<ParentID>7</ParentID>
+		<Text>ROOT: These coordinates point towards <![CDATA[<color=green>another star system</color>]]>! As monumental of a detection as this otherwise would be, we have work to do- we must get back to testing these ores for our friends in the mines back on <![CDATA[<color=lightblue>Timber Hearth</color>]]>.</Text>
+	</TextBlock>
+</NomaiObject>

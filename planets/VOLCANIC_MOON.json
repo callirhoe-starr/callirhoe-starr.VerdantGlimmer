@@ -10,6 +10,33 @@
                 "position": {"x": -25.53943, "y": 100.74748, "z": -32.24442},
                 "keepLoaded": true
             }
+        ],
+        "translatorText": [
+            {
+                "rename": "HLRecorder",
+                "xmlFile": "assets/NomaiText/HLRecorder.xml",
+                "position": {"x": -24.39618, "y": 102.2975, "z": -31.88258},
+                "rotation": {"x": 343.5775, "y": 82.16904, "z": 344.8369},
+                "normal": {"x": -0.2346916, "y": 0.9258085, "z": -0.296308},
+                "seed": 4080,
+                "type": "recorder"
+            },
+            {
+                "rename": "HLComputer",
+                "xmlFile": "assets/NomaiText/HLComputer.xml",
+                "position": {"x": -26.72797, "y": 102.3015, "z": -26.4422},
+                "rotation": {"x": 346.4784, "y": 92.2951, "z": 342.2137},
+                "normal": {"x": -0.2346914, "y": 0.9258087, "z": -0.2963077},
+                "seed": 1000,
+                "type": "computer"
+            }
+        ],
+        "warpTransmitters": [
+            {
+                "rename": "VerdantGlimmerWarp",
+                "position": {"x": -21.45848, "y": 105.0656, "z": -35.32678},
+                "rotation": {"x": 342.2659, "y": 359.9439, "z": 13.59054}
+            }
         ]
     }
 }
